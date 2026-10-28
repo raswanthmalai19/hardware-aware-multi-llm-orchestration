@@ -183,7 +183,4 @@ python -m compileall config.py core frontend_server.py
   blocks, with a ten-second subprocess timeout.
 - Do not place credentials or private datasets in this repository.
 
-## Ownership
-
-**Owner:** Rashwin Krishna
 
